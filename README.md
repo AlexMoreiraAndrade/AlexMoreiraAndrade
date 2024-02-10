@@ -28,10 +28,10 @@
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alexmoreiradeandrade782?si=rM56FfT7-m-yO5Cf)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?legoTrackingToken=30NfmlWqldVomNMsSBA9z0Kc3RBsCZzkTsCfn9xk6NBkDsCfmhLjmNBkDsCejAVejAZp6lQsSlRsmlirnlK9AVfilh9kQZgfnB2sClAsAZQpmtAqnsCqT9LtRZLt5ZKpn1LnP9Sp65Mq6dKtm5Ifmh9t6lDp6BT9z4ZrCZFt6BPrR1QpmtAqnsCc2UMfmlOrSdjsCsCfn9xk6NBkD9D9zRArQRIpl9OpOoMfmVLqnhFsSZgs7lLsCsCejAVejAZp6lQsSlRsmlirnles7lLsCsCsSVLqnhzojRAin1RrT9D9AVfilh9kQZgfnB2sClAsCYCt6NRompBp3RAinhKpmRDpncCsS9LqzRAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64Cdz8Odj8Nfmh9rCZFsT9BtyoMejwOczkVdj4Nfmh9tioUd69AomlCom4TpjkJdzANe2QMe3cQbjoMp3kJdC4Oc3kNc6kZp4BQu6lQrCZz&trk=opento_lp)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.facebook.com/profile.php?id=100075062932805)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com?)
+[![Facebook](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.facebook.com)
 
 <!-- GithubStats -->
 ![Andrade007 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrade007&show_icons=true&theme=dracula)
@@ -51,7 +51,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -59,10 +58,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Python - Exploratory data analysis](https://github.com)
+- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com)
+- [SQL - Querying and analyzing data with AWS Athena](https://github.com)
+- [C - Registration and query system](https://github.com)
 
 <!-- GIF -->
 <p align="left">
